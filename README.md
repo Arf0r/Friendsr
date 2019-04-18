@@ -22,9 +22,10 @@ The most important files are the MainActivity.java file, and the layout.xml file
 - Recalls ratings for every individual character
 
 ## screenshots
-<img width="100" alt="Screen Shot 2019-04-15 at 07 34 41" src="https://user-images.githubusercontent.com/47351811/56109530-40765f80-5f51-11e9-86f4-b8ed4fc8b86a.png">
-<img width="100" alt="Screen Shot 2019-04-15 at 07 35 40" src="https://user-images.githubusercontent.com/47351811/56109532-41a78c80-5f51-11e9-81da-b3acbeb6b1eb.png">
-<img width="250" alt="Screen Shot 2019-04-15 at 07 36 23" src="https://user-images.githubusercontent.com/47351811/56109535-42d8b980-5f51-11e9-8256-55188e1bf654.png">
+<img width="100" alt="Screen Shot 2019-04-18 at 14 25 52" src="https://user-images.githubusercontent.com/47351811/56360854-1d181280-61e6-11e9-8083-ccdbfcd04cb7.png">
+<img width="100" alt="Screen Shot 2019-04-18 at 14 26 57" src="https://user-images.githubusercontent.com/47351811/56360847-1b4e4f00-61e6-11e9-874c-f16c2bd28206.png">
+<img width="200" alt="Screen Shot 2019-04-18 at 14 26 32" src="https://user-images.githubusercontent.com/47351811/56360849-1b4e4f00-61e6-11e9-8f50-ffcb5bcdf166.png">
+<img width="200" alt="Screen Shot 2019-04-18 at 14 26 13" src="https://user-images.githubusercontent.com/47351811/56360850-1b4e4f00-61e6-11e9-8b59-6a2252bb46eb.png">
 
 
 ###
