@@ -20,6 +20,7 @@ package com.example.friendsr;
 
 public class FriendsAdapter extends ArrayAdapter<Friend>{
 
+    // Make a new adapter for Friends
     ArrayList<Friend> friends;
     public FriendsAdapter(@NonNull Context context, int resource, @NonNull ArrayList<Friend> objects) {
         super(context, resource, objects);
@@ -33,6 +34,7 @@ public class FriendsAdapter extends ArrayAdapter<Friend>{
         if (convertView == null) {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.grid_item, parent, false);
         }
+        // Set the views with information from the friends ArrayList
         TextView text = convertView.findViewById(R.id.text);
         ImageView picture = convertView.findViewById(R.id.picture);
         Friend friend = friends.get(position);
